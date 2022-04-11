@@ -1,0 +1,15 @@
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.csproj.AssemblyReference.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.AssemblyInfoInputs.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.AssemblyInfo.cs
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.csproj.CoreCompileInputs.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/bin/Debug/net6.0/Exemple001
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/bin/Debug/net6.0/Exemple001.deps.json
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/bin/Debug/net6.0/Exemple001.runtimeconfig.json
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/bin/Debug/net6.0/Exemple001.dll
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/bin/Debug/net6.0/Exemple001.pdb
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.dll
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/refint/Exemple001.dll
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.pdb
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/Exemple001.genruntimeconfig.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/Seminar_1_C_Sharp/Exemple001/obj/Debug/net6.0/ref/Exemple001.dll
