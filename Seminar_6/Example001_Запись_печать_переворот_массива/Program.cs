@@ -3,12 +3,14 @@
 
 int[] array = GetArray(6);
 WriteArray(array);
-for(int i = 0; i < array.Length / 2; i++)
+
+for(int i = 0; i < array.Length / 2; i++) //непосредственно переворот массива
 {
     int help = array[i];
     array[i] = array[array.Length - 1 -i];
     array[array.Length - 1 -i] = help;
 }
+
 WriteArray(array);
 
 
